@@ -1,0 +1,75 @@
+#background {
+    height: 725px;
+}
+
+div img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+h1, h4 {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+} 
+
+section div a {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+section a {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h2, section p {
+    text-align: center;
+    color: #0a0000;
+    text-decoration: none;
+}
+
+main img, icon {
+    display: block;
+    width: 40%;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #b39c9c; 
+}
+header {
+    background-color:rgba(20,30,13, .7);
+}
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}
+
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+} 
+
+.icon {
+    width: 80px;
+}
+
+footer p {
+    text-size-adjust: 1.2em;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}
+
+footer img {
+    display: inline;
+    text-align: center;
+    margin: 0 auto;
+}
